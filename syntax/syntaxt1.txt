@@ -1,0 +1,24 @@
+so every c code has to have a header file/ or a library that
+that lets us do all the stuff we want to do in a code, such as input output
+and we dont have to write the code for everything. It gives us acess to reusing functions
+and premade for our convinience
+
+another good practise to use is >>>using namespace std
+this saves us the hassle off std::cout<<
+
+all C programs must have a int main(){}
+int is the return type of this function
+main is the name (this is mandatory and predifined in this case but we can have our own custom functions)
+and it's content is written inside{}
+
+we declare variables and all after specifying their data types and use cin>> or cout<< to obtain
+or display them.
+
+Each Cpp statement has to end with a semi colon, it's just syntax and shows when one line or command of action has ended
+
+Also must add return 0 to the end of the program.
+
+Also you can add comments using double slash //
+or mass comment using /*
+
+Also its nice to end cout<< with endl cuz it sends the output cursor to the next line making wtv ur printing more readable
